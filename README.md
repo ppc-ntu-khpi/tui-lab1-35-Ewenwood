@@ -6,4 +6,4 @@
   
 ## Результат
 
-![result](image/screenshot.png)
+![result](image/screenshot.PNG)
